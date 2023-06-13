@@ -4,67 +4,50 @@
 body {
   font-size: 14px;
 }
-.v1_2 {
+.v6_8 {
   width: 526px;
-  height: 1028px;
-  background: rgba(255,255,255,1);
+  height: 119px;
+  background: url("../images/v6_8.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 16px;
   opacity: 1;
   position: relative;
   top: 0px;
   left: 0px;
   overflow: hidden;
 }
-.v3_3 {
-  width: 216px;
-  height: 216px;
-  background: rgba(242,240,248,0.3799999952316284);
-  opacity: 1;
-  position: absolute;
-  top: 766px;
-  left: 336px;
-  border-radius: 50%;
-}
-.v3_4 {
-  width: 108px;
-  height: 108px;
-  background: rgba(242,240,248,0.3799999952316284);
-  opacity: 1;
-  position: absolute;
-  top: 920px;
-  left: 315px;
-  border-radius: 50%;
-}
-.v1_3 {
-  width: 36px;
-  color: rgba(145,145,145,1);
-  position: absolute;
-  top: 68px;
-  left: 454px;
-  font-family: Inter;
-  font-weight: Regular;
-  font-size: 20px;
-  opacity: 1;
-  text-align: left;
-}
-.v6_8 {
-  width: 278px;
+.v2_2 {
+  width: 98px;
   height: 119px;
-  background: url("../images/v6_8.png");
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 125px;
+  overflow: hidden;
+}
+.v10_3 {
+  width: 162px;
+  height: 58px;
+  background: url("../images/v10_3.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  margin: 16px;
   opacity: 1;
   position: absolute;
-  top: 127px;
-  left: 37px;
+  top: 30px;
+  left: 239px;
   overflow: hidden;
 }
 .v1_4 {
   width: 162px;
   color: url("../images/v1_4.png");
-  position: absolute;
-  top: 1px;
-  left: 116px;
+  position: relative;
+  top: 0px;
+  left: 0px;
   font-family: Inter;
   font-weight: Regular;
   font-size: 12px;
@@ -75,24 +58,11 @@ body {
   width: 162px;
   color: rgba(165,165,165,1);
   position: absolute;
-  top: 38px;
-  left: 116px;
+  top: 37px;
+  left: 0px;
   font-family: Inter;
   font-weight: Italic;
   font-size: 12px;
   opacity: 1;
   text-align: left;
-}
-.v2_2 {
-  width: 98px;
-  height: 119px;
-  background: rgba(217,217,217,1);
-  opacity: 1;
-  position: relative;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.name {
-  color: #fff;
 }
